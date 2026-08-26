@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="BinarySearch/BinarySearch.vcxproj" Id="c3e89fcf-e800-42be-908d-7410a86b7ba6" />
+  <Project Path="BruteForce/BruteForce.vcxproj" Id="5c0918ab-8c54-4e37-9214-dbc2168c4691" />
+  <Project Path="Random/Random.vcxproj" Id="517cd79b-d92a-441f-acc3-e521b19b9a6e" />
+  <Project Path="Recursive/Recursive.vcxproj" Id="abeaa5d5-4b4c-460e-86f2-d99fd74b0565" />
+</Solution>
